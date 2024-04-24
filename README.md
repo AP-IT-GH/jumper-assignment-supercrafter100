@@ -23,9 +23,9 @@ You should have a parent object with everything in it:
 
 <img src="images/files.png" alt="files" width="200">
 the dimensions:
-    - track: 2, 0.1, 29.5
-    - agent: 1, 1, 1
-    - wall: 3, 3, 0.3
+- track: 2, 0.1, 29.5
+- agent: 1, 1, 1
+- wall: 3, 3, 0.3
 
 ### Agent 
 - Box collider:
