@@ -21,29 +21,29 @@ When unity is opened, you need to create a scene with the setup below. This cons
 
 ### Agent 
 - Box collider:
-    <img src="images/boxCollider.png" alt="collider" width="200">
+<img src="images/boxCollider.png" alt="collider" width="200">
 
 - Rigidbody:
-    <img src="images/Rigidbody.png" alt="rigidbody" width="200">
+<img src="images/Rigidbody.png" alt="rigidbody" width="200">
 
 - Behavior Parameters:
-    <img src="images/behParam.png" alt="behParam" width="200">
+<img src="images/behParam.png" alt="behParam" width="200">
 
 - Decision Requester: 
-    <img src="images/decision.png" alt="decision" width="200">
+<img src="images/decision.png" alt="decision" width="200">
 
 - Ray Perception Sensor: 
-    <img src="images/rays.png" alt="rays" width="200">
+<img src="images/rays.png" alt="rays" width="200">
 
 - Script: (branch unity: Assets/Scripts/CubeAgentJumper.cs)
-    <img src="images/script.png" alt="script" width="200">
+<img src="images/script.png" alt="script" width="200">
 
 ### Obstacle 
 - Rigidbody:
-    <img src="images/rigidbody-obstacle.png" alt="rigidbody" width="200">
+<img src="images/rigidbody-obstacle.png" alt="rigidbody" width="200">
 
 - Script: (brach unity: Assets/Scripts/Obstacle.cs)
-    <img src="images/script2.png" alt="script" width="200">
+<img src="images/script2.png" alt="script" width="200">
 
 
 ## Tensorboard 
