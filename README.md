@@ -1,4 +1,7 @@
 # Jumper Exercise
+
+https://github.com/AP-IT-GH/jumper-assignment-supercrafter100
+
 Stijn Voeten - s140024
 
 Eline Van Zeir - s142732 
