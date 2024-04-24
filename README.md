@@ -16,7 +16,7 @@
 
 ## Tutorial 
 ### General setup
-When unity is opened, you need to create a scene with the setup below. This consists of a agent (red) and the track with a wall at the end. Voor de muur (a cube) moet je een nieuwe tag aanmaken, genaamd "colliderwall". In addition, you should also make a prefab of a cube (yellow), which serves as an obstacle. You also give this one a tag "obstacle". This cube should not be in the starting setup, you should only have a prefab of this. 
+When unity is opened, you need to create a scene with the setup below. This consists of a agent (red) and the track with a wall at the end. For the wall (a cube), you need to create a new tag called "colliderwall". In addition, you should also make a prefab of a cube (yellow), which serves as an obstacle. You also give this one a tag "obstacle". This cube should not be in the starting setup, you should only have a prefab of this. 
 ![setup](images/generalSetup.png)
 
 ### Agent 
