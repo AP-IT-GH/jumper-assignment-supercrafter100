@@ -20,13 +20,14 @@ When unity is opened, you need to create a scene with the setup below. This cons
 ![setup](generalSetup.png)
 
 ### Agent 
-Give the agent: 
-- Box collider: 
-    ![collider](boxCollider.png)
-- Rigidbody: 
-    ![rigidbody](Rigidbody.png)
+- Box collider:
+    <img src="boxCollider.png" alt="collider" width="200">
+
+- Rigidbody:
+    <img src="Rigidbody.png" alt="rigidbody" width="200">
+
 - Behavior Parameters:
-    ![behParam](behParam.png)
+    <img src="behParam.png" alt="behParam" width="200">
 
 
 ## Tensorboard 
