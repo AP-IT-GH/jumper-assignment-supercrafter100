@@ -1,5 +1,6 @@
 # Jumper Exercise
 Stijn Voeten - s140024
+
 Eline Van Zeir - s142732 
 ## Basics
 - set-up: A platforming environment where the agent can jump over a moving object. 
